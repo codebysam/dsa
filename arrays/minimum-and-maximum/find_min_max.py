@@ -1,4 +1,7 @@
-import json
+#
+# https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+# Maximum and minimum of an array using minimum number of comparisons
+#
 
 def find_min_max(arr):
     if len(arr) == 0:

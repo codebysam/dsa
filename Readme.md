@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-This repository will contain the DSA question solved in python
+This repository will contain the DSA question solved in python using custom code (Not using built-in functions)
 
 1. Arrays
 2. Strings
