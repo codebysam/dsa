@@ -58,3 +58,4 @@ def search_in_pivotted_array(arr, k):
 if __name__ == "__main__":
     print(search_element([5, 6, 7, 8, 9, 10, 1, 2, 3], 3))
     print(search_in_pivotted_array([5, 6, 7, 8, 9, 10, 1, 2, 3], 1))
+    print(search_in_pivotted_array([7,0,1,2,4,5,6], 7))

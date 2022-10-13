@@ -27,7 +27,7 @@ def find_max_subarray(arr):
 
 
 if __name__ == "__main__":
-    max_val = find_max_subarray([-2, -3, -4, -1, -2, -3, 5, -3])
+    max_val = find_max_subarray([-2, -3, 4, -1, -2, 3, 5, -3])
     print(f"Maximum sum of a contiguous sub array: {max_val}")
     
     
