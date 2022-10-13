@@ -2,18 +2,9 @@
 # Next Permutation
 # https://leetcode.com/problems/next-permutation/
 # 
-            
-
-from operator import index
 
 
 def find_next_permutation(nums):
-    # print("\n\n\n")
-    # import itertools
-    # p_list = list(itertools.permutations(nums))
-    # p_list.sort()
-    # # print(p_list)
-    
     l = len(nums)
     if l <= 1:
         return nums
