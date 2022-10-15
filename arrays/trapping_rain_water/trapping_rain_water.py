@@ -27,3 +27,4 @@ if __name__ == "__main__":
     print(find_collected_water([0,1,0,2,1,0,1]))
     print(find_collected_water([4,2,0,3,2,5]))
     print(find_collected_water([4,2,3]))
+    print(find_collected_water([1, 0, 8, 0, 6, 0, 2, 0, 5, 0, 4, 0, 8, 0, 7]))
